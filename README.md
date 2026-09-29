@@ -772,7 +772,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Read-only view of your credit cards: balances, utilization, best card for a purchase and missed rewards.
 - [StockPortfolio.pro](https://www.stockportfolio.pro/api) `https://www.stockportfolio.pro/mcp`
   [![StockPortfolio.pro MCP connector](https://glama.ai/mcp/connectors/pro.stockportfolio/stock-portfoliopro/badges/score.svg)](https://glama.ai/mcp/connectors/pro.stockportfolio/stock-portfoliopro)
-  🔓 - US company fundamentals from SEC filings: financial statements, 10-K/10-Q/8-K timeline, two-company compare, watchlist screen and a filing-grounded Ask. Every value carries its fiscal period and EDGAR filing URL; unfiled figures return null. Keyless free tier, API key or OAuth. US-listed, USD-reporting companies only.
+  🔓 - Limited keyless US stock research: SEC financials, filings, comparisons, screens, fund profiles and sourced answers.
 - [Stocks On Chain](https://stocksonchain.io) `https://stocksonchain.io/mcp`
   [![Stocks On Chain MCP connector](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain/badges/score.svg)](https://glama.ai/mcp/connectors/io.stocksonchain/stocks-on-chain)
   🔓 - Tokenized listed stocks by chain and issuer, with contract addresses and on-chain corporate actions.
